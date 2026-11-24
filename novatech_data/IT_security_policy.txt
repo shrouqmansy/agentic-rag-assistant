@@ -1,0 +1,29 @@
+NovaTech Solutions - Information Security Policy
+Owner: IT Security Desk. Applies to all employees, contractors and interns.
+
+1. Passwords and authentication
+Employee passwords must be at least 14 characters long and must be changed every 90 days. A new password cannot match any of the last 5 passwords used. Multi-factor authentication (MFA) is mandatory for every company system, including email, the VPN and the HRConnect portal. Passwords must never be shared, written down or stored in a browser on a personal device.
+
+2. Remote access and public networks
+Employees must connect through the company VPN whenever they use public Wi-Fi, such as cafes, airports or hotels. Accessing company systems from a personal computer is not allowed unless the IT Security Desk has approved it in writing.
+
+3. Lost or stolen devices
+If a company laptop or phone is lost or stolen, the employee must report it to the IT Security Desk within 2 hours of noticing the loss. Report by phone on extension 4100 or by email to security@novatech.example. The IT Security Desk will remotely lock and wipe the device. Reporting later than 2 hours may lead to disciplinary action.
+
+4. Removable media
+USB storage devices (flash drives and external disks) are blocked on all company computers. Exceptions require written approval from the Chief Information Security Officer (CISO). Files should be shared through the approved cloud drive instead.
+
+5. Data classification
+Company data is classified into four levels: Public, Internal, Confidential and Restricted. Customer data is always Restricted. Restricted data must not be stored on personal devices, sent through personal email or pasted into public AI tools. Confidential data may only be shared with people who need it for their work.
+
+6. Software installation
+Software may only be installed from the company Software Center. If a required program is not listed, submit a request to the IT service desk. Requests are processed within 3 working days. Pirated or unlicensed software is strictly forbidden.
+
+7. Phishing and suspicious emails
+Suspicious emails must be reported using the Report Phish button in the email client. The security team responds to every report within 4 business hours. Employees who click a suspicious link must change their password immediately and contact the IT Security Desk.
+
+8. Security incidents
+Any suspected security incident must be reported to the IT Security Desk immediately. Incidents are rated P1 (critical), P2 (high) or P3 (low). The security team starts working on a P1 incident within 15 minutes.
+
+9. Leaving the company
+When an employee leaves, all system access is disabled on the last working day at 17:00. The employee must return all company devices and badges on or before that day.

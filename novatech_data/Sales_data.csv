@@ -1,0 +1,25 @@
+Date,Customer,Plan,Agents,Billing,Amount_USD,Region,Sales_rep
+2026-01-12,Alpha Telecom,Enterprise,30,Annual,22752.00,UAE,Youssef Adel
+2026-01-20,Cairo Bites,Starter,3,Monthly,45.00,Egypt,Mariam Tarek
+2026-02-01,Delta Logistics,Business,12,Monthly,468.00,Egypt,Karim Fathy
+2026-02-10,Pyramid Clinics,Business,8,Annual,2995.20,Egypt,Mariam Tarek
+2026-02-25,Red Sea Travel,Starter,5,Monthly,75.00,Egypt,Karim Fathy
+2026-03-05,Nile Bank,Enterprise,25,Monthly,1975.00,Egypt,Laila Hassan
+2026-03-18,Gulf Retail,Business,15,Annual,5616.00,Saudi Arabia,Youssef Adel
+2026-04-02,Horizon Edu,Starter,10,Annual,1440.00,Egypt,Mariam Tarek
+2026-04-14,Sahara Foods,Business,6,Monthly,234.00,Egypt,Karim Fathy
+2026-04-28,Tamkeen Solutions,Enterprise,20,Annual,15168.00,Saudi Arabia,Laila Hassan
+2026-05-07,Maadi Pharma,Business,10,Monthly,390.00,Egypt,Mariam Tarek
+2026-05-19,Luxor Hotels,Starter,4,Monthly,60.00,Egypt,Karim Fathy
+2026-06-03,Atlas Insurance,Enterprise,40,Annual,30336.00,UAE,Youssef Adel
+2026-06-22,Nova Auto,Business,20,Annual,7488.00,Saudi Arabia,Laila Hassan
+2026-07-08,Delta Wear,Starter,6,Monthly,90.00,Egypt,Mariam Tarek
+2026-07-15,Cairo Metro Tech,Business,9,Monthly,351.00,Egypt,Karim Fathy
+2026-07-29,Blue Nile Shipping,Enterprise,22,Monthly,1738.00,Egypt,Youssef Adel
+2026-08-11,Falcon Finance,Enterprise,35,Annual,26544.00,UAE,Laila Hassan
+2026-08-25,Oasis Dental,Starter,2,Monthly,30.00,Egypt,Mariam Tarek
+2026-09-09,Zamalek Media,Business,7,Annual,2620.80,Egypt,Karim Fathy
+2026-09-23,Petra Logistics,Business,14,Monthly,546.00,Jordan,Youssef Adel
+2026-10-05,Sinai Energy,Enterprise,50,Annual,37920.00,Egypt,Laila Hassan
+2026-10-20,Alex Marine,Business,11,Monthly,429.00,Egypt,Mariam Tarek
+2026-11-03,Karnak Retail,Starter,8,Annual,1152.00,Egypt,Karim Fathy

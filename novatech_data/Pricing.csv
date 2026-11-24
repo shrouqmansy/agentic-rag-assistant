@@ -1,0 +1,4 @@
+Plan,Price_per_agent_per_month_USD,Minimum_agents,Storage_GB,Ticket_retention,Support_channels,API_requests_per_minute,Uptime_SLA
+Starter,15,1,10,12 months,Email only,100,None
+Business,39,5,100,36 months,Email and live chat,500,99.9%
+Enterprise,79,20,1000,7 years,Email and live chat and 24/7 phone,2000,99.95%

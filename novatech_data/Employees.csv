@@ -1,0 +1,17 @@
+Employee_ID,Name,Department,Job_title,Hire_date,Leave_days_taken_2026,Carried_over_days
+E001,Salma Farouk,Human Resources,HR Manager,2012-03-01,8,3
+E002,Khaled Samir,Finance,Finance Manager,2014-09-15,12,5
+E003,Laila Hassan,Sales,Sales Manager,2015-06-10,20,7
+E004,Mostafa Aziz,IT Security Desk,Security Lead,2016-11-01,10,2
+E005,Tamer Yehia,Facilities,Facilities Manager,2017-02-12,15,0
+E006,Hana Mostafa,Engineering,Engineering Manager,2018-05-20,9,4
+E007,Omar Nabil,Customer Support,Support Manager,2019-01-07,18,6
+E008,Ahmed Reda,Engineering,Software Engineer,2019-10-01,14,1
+E009,Nadine Gamal,Marketing,Marketing Manager,2020-08-30,7,0
+E010,Dina Ashraf,Customer Support,Support Agent,2020-11-15,21,7
+E011,Youssef Adel,Sales,Sales Executive,2021-03-14,11,3
+E012,Mariam Tarek,Sales,Sales Executive,2022-09-01,16,2
+E013,Karim Fathy,Sales,Sales Executive,2023-04-10,5,0
+E014,Sara Magdy,Engineering,Software Engineer,2024-02-05,13,5
+E015,Hossam Ibrahim,Customer Support,Support Agent,2026-09-01,2,0
+E016,Nour Khaled,Human Resources,HR Specialist,2026-10-12,0,0
